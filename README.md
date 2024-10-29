@@ -34,7 +34,7 @@
 ![](https://visitcount.itsvg.in/api?id=ash-codes18&icon=1&color=10)
 
 
-![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=andr3kaua&show_icons=true&theme=dark)
+![Carlianegdiogenes](https://github-readme-stats.vercel.app/api?username=andr3kaua&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
 
 
