@@ -13,7 +13,7 @@
 <br><br><br>
 <div align="center">
   <a href="https://git.io/typing-svg">
-<img aling= "center" alt= "https://c.tenor.com/S5gJsF7DFdIAAAAM/bem-vindo.gif">
+<img aling= "" alt= "https://c.tenor.com/S5gJsF7DFdIAAAAM/bem-vindo.gif">
 
   </a>
 </div>
