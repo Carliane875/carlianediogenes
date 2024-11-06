@@ -58,11 +58,11 @@
   <p><h1 align="right"> <strong>🏆 T R O P H I E S</strong></h1>
 <br><br>
 
-![](https://github-profile-trophy.vercel.app/?username=andr3kaua&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=carlianediogenes&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=andr3kaua&theme=monokai-metallian&hide_border=true&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=carlianediogenes&theme=monokai-metallian&hide_border=true&show_icons=true)
 </div>
 <br>
 <br>
