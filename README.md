@@ -9,7 +9,7 @@
   
 <h1><em>Olá, eu sou o Carliane! </em><img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></h1>
 <br><br><br>
-![Ashmit Mehta](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
+
 <br><br><br>
 <div align="center">
   <a href="https://git.io/typing-svg">
